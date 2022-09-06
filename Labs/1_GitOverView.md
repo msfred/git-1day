@@ -103,7 +103,7 @@ You should now see the following message
 
 >   new file:     newcode.cs
 
-10. Run **git commit newcode.cs -m"Inital commit"**
+10. Run **git commit -m "Inital commit"**
 
 You should now see the following message
 > [master (root-commit) 6f6abc7] Inital commit <br>
