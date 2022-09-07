@@ -103,7 +103,7 @@ You should now see the following message
 
 >   new file:     newcode.cs
 
-10. Run **git commit newcode.cs -m"Inital commit"**
+10. Run **git commit -m "Inital commit"**
 
 You should now see the following message
 > [master (root-commit) 6f6abc7] Inital commit <br>
@@ -138,7 +138,7 @@ You should now see the following message
 
 > no changes added to commit (use "git add" and/or "git commit -a")
 
-4. Run **git commit -am"New code added"**
+4. Run **git commit -am "New code added"**
 
 You should now see the following message
 > [master 23fa51c] New code added <br>
@@ -153,6 +153,3 @@ You should now see the following message
 > No commits yet, working tree clean
 
 In this lab you used **git status** to inspect the repository. You also used **git init** to create a new local respository. And you used **git add** and **git commit**. In forthcoming labs you will often reuse these commands.
-
-
-
