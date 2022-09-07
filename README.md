@@ -7,4 +7,4 @@ The file structure for Git specific content
 
 ***Demos*** - Contains mark down to help with demo of common git scenarios
 
-PowerPoints are not included here. Only text files.
+***Presentations*** - Contains .pdf of the presentations.
